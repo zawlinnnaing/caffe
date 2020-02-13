@@ -1,4 +1,3 @@
-#!/usr/bin/env sh
 #
 # N.B. This does not download the ilsvrcC12 data set, as it is gargantuan.
 # This script downloads the imagenet example auxiliary files including:
